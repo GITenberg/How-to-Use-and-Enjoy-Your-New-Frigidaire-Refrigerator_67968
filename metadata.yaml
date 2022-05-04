@@ -1,0 +1,29 @@
+_repo: How-to-Use-and-Enjoy-Your-New-Frigidaire-Refrigerator_67968
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/49
+    - https://en.wikipedia.org/wiki/Anonymous_work
+description: ''
+gutenberg_issued: '2022-05-02'
+identifiers:
+  gutenberg: '67968'
+language: en
+pgterms:marc905: 20200604223125anonymous
+pgterms:marc906: '1948'
+pgterms:marc907: US
+production_note: Lisa Corcoran, Stephen Hutcheson and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: United States :General Motors Corporation, Frigidaire Division,1948.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: How to Use and Enjoy Your New Frigidaire Refrigerator
+url: http://www.gutenberg.org/ebooks/67968
